@@ -1,1 +1,5 @@
-# serverchip-cli
+# Serverchip CLI
+
+## License
+	
+	[Apache](../blob/master/LICENSE)
