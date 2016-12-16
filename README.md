@@ -2,4 +2,4 @@
 
 ## License
 	
-[Apache](../blob/master/LICENSE)
+[Apache](../master/LICENSE)
